@@ -21,8 +21,7 @@ By treating neural network weights as "prey" and search agents as "whales," the 
 * **Hyperparameter Analysis:** Investigate the impact of hidden layer size, population size, and regularization () on model performance.
 
 
-* 
-**Performance Evaluation:** Measure success through convergence stability, training accuracy, and test accuracy.
+* **Performance Evaluation:** Measure success through convergence stability, training accuracy, and test accuracy.
 
 
 
