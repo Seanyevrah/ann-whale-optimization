@@ -12,16 +12,13 @@ By treating neural network weights as "prey" and search agents as "whales," the 
 
 ## Core Objectives
 
-* 
-**Implement WOA:** Develop a gradient-free framework to optimize ANN connection weights.
+* **Implement WOA:** Develop a gradient-free framework to optimize ANN connection weights.
 
 
-* 
-**Dataset Application:** Apply the WOA-ANN framework to the **Banknote Authentication Dataset** from the UCI Machine Learning Repository.
+* **Dataset Application:** Apply the WOA-ANN framework to the **Banknote Authentication Dataset** from the UCI Machine Learning Repository.
 
 
-* 
-**Hyperparameter Analysis:** Investigate the impact of hidden layer size, population size, and regularization () on model performance.
+* **Hyperparameter Analysis:** Investigate the impact of hidden layer size, population size, and regularization () on model performance.
 
 
 * 
@@ -33,20 +30,16 @@ By treating neural network weights as "prey" and search agents as "whales," the 
 
 ## Technical Stack
 
-* 
-**Development Environment:** GNU Octave.
+* **Development Environment:** GNU Octave.
 
 
-* 
-**Optimization Strategy:** Whale Optimization Algorithm (WOA).
+* **Optimization Strategy:** Whale Optimization Algorithm (WOA).
 
 
-* 
-**Architecture:** Fully connected Artificial Neural Network (ANN).
+* **Architecture:** Fully connected Artificial Neural Network (ANN).
 
 
-* 
-**Data Processing:** Feature normalization (zero mean and unit variance).
+* **Data Processing:** Feature normalization (zero mean and unit variance).
 
 
 
@@ -56,16 +49,13 @@ By treating neural network weights as "prey" and search agents as "whales," the 
 
 The optimization process mimics three primary biological behaviors:
 
-1. 
-**Encircling Prey:** Search agents update their positions based on the current best solution.
+1. **Encircling Prey:** Search agents update their positions based on the current best solution.
 
 
-2. 
-**Bubble-net Attacking (Exploitation):** A spiral-shaped movement modeled to simulate the actual hunting maneuver.
+2. **Bubble-net Attacking (Exploitation):** A spiral-shaped movement modeled to simulate the actual hunting maneuver.
 
 
-3. 
-**Search for Prey (Exploration):** Random exploration of the search space to maintain diversity and avoid local optima.
+3. **Search for Prey (Exploration):** Random exploration of the search space to maintain diversity and avoid local optima.
 
 
 
