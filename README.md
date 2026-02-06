@@ -1,6 +1,6 @@
 # Artificial Neural Network Optimization using Whale Optimization Algorithm (WOA)
 
-This repository contains the implementation and analysis of **Laboratory Activity 4**, focusing on the application of Swarm Intelligence (SI) to enhance Artificial Neural Network (ANN) performance. Specifically, it utilizes the **Whale Optimization Algorithm (WOA)** to automate and optimize the selection of neural network hyperparameters for binary classification.
+This repository contains the implementation and analysis as part of **CMSC 123: Data Structures and Algorithms II**, focusing on the application of Swarm Intelligence (SI) to enhance Artificial Neural Network (ANN) performance. Specifically, it utilizes the **Whale Optimization Algorithm (WOA)** to automate and optimize the selection of neural network hyperparameters for binary classification.
 
 ## Overview
 
